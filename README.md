@@ -41,6 +41,6 @@
 <p align="center">
 <a href="https://github.com/AndCast06">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndCast06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndCast06&layout=compact&langs_count=8&theme=algolia"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndCast06&layout=compact&theme=radical)](https://github.com/AndCast06/github-readme-stats)
 </a>
 </p>
