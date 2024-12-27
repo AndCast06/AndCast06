@@ -11,7 +11,10 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AndCast06">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndCast06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  </a>
+  <a href="https://github.com/AndCast06/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/AndCast06/awesome-github-profile-readme" alt="Stars Badge"/></a>
+  <a href="https://github.com/AndCast06/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/AndCast06/awesome-github-profile-readme" alt="Forks Badge"/></a>
+  <a href="https://github.com/AndCast06/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/AndCast06/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/AndCast06/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/AndCast06/awesome-github-profile-readme" alt="Issues Badge"/></a>
+  <a href="https://github.com/AndCast06/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AndCast06/awesome-github-profile-readme?color=2b9348"></a>
+  <a href="https://github.com/AndCast06/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/AndCast06/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 </p>
