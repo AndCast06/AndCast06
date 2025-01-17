@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">AndCast06</a> 👋</h1>
 </div>
-<img src="https://github.com/AndCast06/AndCast06/blob/main/bannerGitHud.jpg">
+<img src="https://github.com/AndCast06/AndCast06/blob/main/banner.jpg">
 
 ## Sobre mi
 
